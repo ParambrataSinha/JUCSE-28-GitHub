@@ -1,6 +1,6 @@
 # Collage Assignments
 
-<img align="right" width=130 src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/taking-sunglasses-off-getting-a-better-look.gif>
+<img align="right" width=250 src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/taking-sunglasses-off-getting-a-better-look.gif>
 I made this repo to save my collage assignments.
 <br>
 <div align="vcentre">
