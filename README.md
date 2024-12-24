@@ -2,7 +2,6 @@
 
 <img align="right" width=250 src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/taking-sunglasses-off-getting-a-better-look.gif>
 I made this repo to save my collage assignments.
-<br>
 <div align="vcentre">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Want+to+know+more+about+me!;Read+Below!!!" alt="Typing SVG">
 </div>
