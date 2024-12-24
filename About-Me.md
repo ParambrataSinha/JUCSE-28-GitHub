@@ -1,3 +1,15 @@
+# Collage Assignments
+
+<img align="right" width=130 src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/taking-sunglasses-off-getting-a-better-look.gif>
+I made this repo to save my collage assignments.
+<br>
+<div align="vcentre">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Want+to+know+more+about+me!;Read+Below!!!" alt="Typing SVG">
+</div>
+
+---
+---
+
 # Hey there! I'm Parambrata Sinha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <img align="right" width=130 src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/hackermans.gif>
@@ -25,7 +37,7 @@ Welcome to my digital playground! 🚀 I’m a tech enthusiast on a mission to e
 ## 🛠 My Tech Toolbox  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,git,linux,vscode,github,unity&theme=light" alt="Tech Tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,git,linux,vscode,github,blender,unreal&theme=light" alt="Tech Tools" />
 </div>  
 
 ---
