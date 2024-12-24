@@ -79,7 +79,7 @@ I love coding, and coding loves me back. What more could I ask for?  💞
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eszoii7z3wkywyjtx6tbqr3myq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=7b4eb1)](https://github.com/kittinan/spotify-github-profile) <img src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/ashley-violet.gif width=400>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eszoii7z3wkywyjtx6tbqr3myq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=7b4eb1)](https://github.com/kittinan/spotify-github-profile) <img src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/ashley-violet.gif width=400>
 
 
 
