@@ -1,0 +1,9 @@
+If a three-digit integer is input through the keyboard, write a program to calculate the sum of its digits.
+(Hint: Use the modulo operator ‘%’)
+
+Solution Methods:
+    1. Using modulo operator
+    2. Using Field Width
+    3. Using while loop with modulo operator
+    4. Using Recursion
+    5. Using String Conversion and Array Indexing

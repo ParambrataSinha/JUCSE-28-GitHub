@@ -1,0 +1,8 @@
+If the marks obtained by a student in five different subjects are input through the keyboard, find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100. Input error should be checked. [OPTIONAL]
+
+Solution Methods:
+    1. Using for loop with early exit
+    2. Using Functions
+    3. Using Arrays, Loops & Inline Calculation
+    4. Using Structures and Pointers
+    5. Using Pointers and Functions

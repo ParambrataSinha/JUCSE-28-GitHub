@@ -1,0 +1,1 @@
+Write a C program which accepts 100 integers and displays the counts of positives, negatives and zeros entered.

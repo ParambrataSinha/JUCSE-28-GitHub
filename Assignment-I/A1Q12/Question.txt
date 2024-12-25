@@ -1,0 +1,8 @@
+The length and breadth of a rectangle are input through the keyboard. Write a program to determine  [OPTIONAL]
+(i) radius of a circle and ratio of perimeters of the rectangle and the circle if the areas of the rectangle and the circle are equal 
+(ii) radius of the circle and the ratio of the areas of the rectangle and the circle if the perimeters of the rectangle and the circle are equal.
+
+Solution Methods:
+    1. Using Simple I/O and Arithmetic Operations
+    2. Using multiple Functions
+    3. Using Structures

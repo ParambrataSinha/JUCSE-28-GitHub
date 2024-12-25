@@ -1,0 +1,1 @@
+Write a C program which accepts number obtained by five students in five subjects. Print the total marks obtained by all the students. Also determine the highest total marks.

@@ -1,0 +1,9 @@
+A cashier has currency notes of denominations 10, 50 and 100. Write a C program which accepts an amount to be withdrawn, and prints the total number of currency notes of each denomination the cashier will have to give to the withdrawer. [OPTIONAL]
+
+Solution Methods:
+    1. Using Modulo Operator & Simple I/O and Arithmetic
+    2. Using Function
+    3. Using Array
+    4. Using Pointers & Function
+    5. Using Inline Calculation in printf
+    6. Using Using Functions and Structures

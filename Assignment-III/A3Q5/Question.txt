@@ -1,0 +1,1 @@
+Write a C program which accepts ten integers from user and prints them in ascending order. Use array to store the integers.

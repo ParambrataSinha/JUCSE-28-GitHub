@@ -1,0 +1,7 @@
+Accept three integer numbers and find their average. Next display which numbers are below and above the average value.
+
+Solution Methods:
+    1. Using If-Else Ladder
+    2. Using Array
+    3. Using Ternary operators
+    4. Using Bitwise Logic XOR operator

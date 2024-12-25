@@ -1,0 +1,1 @@
+Write a program which accepts a number n and prints all prime factors of n. [OPTIONAL]

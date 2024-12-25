@@ -1,0 +1,9 @@
+Q. Write a C program that reads two values from the keyboard, swaps their values and prints out the result.
+
+Solution Methods:
+    1. Using Temporary Variables
+    2. Using Pointers Only
+    3. Using Temporary Array
+    4. Using Recursion
+    5. Using Pointers & Function
+

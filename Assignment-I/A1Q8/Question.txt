@@ -1,0 +1,5 @@
+Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a program to convert this temperature into Centigrade degrees.
+
+Solution Methods:
+    1. Using Simple I/O
+    2. Using Inline Calculation in printf

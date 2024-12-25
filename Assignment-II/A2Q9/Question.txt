@@ -1,0 +1,1 @@
+Write a C program which prints all prime numbers between 1 and 100.

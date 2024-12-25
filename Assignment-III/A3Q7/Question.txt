@@ -1,0 +1,1 @@
+Write a C program which accepts a matrix and prints its transpose.

@@ -1,0 +1,7 @@
+Write a C program which accepts basic salary as input and prints the gross salary, which is sum of the basic, dearness allowance (60% of basic salary), and house rent allowance (15% of basic salary).
+
+Solution Methods:
+    1. Using Simple I/O and Arithmatic
+    2. Using Using Inline Calculation in printf
+    3. Using Function
+    4. Using Struct

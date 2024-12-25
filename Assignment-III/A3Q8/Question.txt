@@ -1,0 +1,3 @@
+Write a program which takes some numbers and computes the standard deviation of them. 
+Formulas: For a set of n values, x_1, x_2...x_n , the average or mean is given by $\bar x= \frac{\sum x_i}{n}$ or x bar =(Sum x_i)/n
+The standard deviation is given by: $s= \sqrt{\frac{\sum (x_i-\bar x)^2}{n-1}}$ or s= sqrt((Sum((x_i-x bar)^2))/(n-1))

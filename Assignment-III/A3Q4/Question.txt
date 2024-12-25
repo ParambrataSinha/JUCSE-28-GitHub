@@ -1,0 +1,1 @@
+Write a program to find the range of a set of integers entered by the user. Range is the difference between the smallest and largest number in the list.

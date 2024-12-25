@@ -1,0 +1,7 @@
+Write a C program to find the maximum and minimum of three numbers.
+
+Solution Methods:
+    1. Using Ternary operator
+    2. Using Nested If-Else
+    3. Using Array
+    4. Using Simple Bubble Sorting Algorithm

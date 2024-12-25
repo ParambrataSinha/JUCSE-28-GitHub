@@ -1,0 +1,1 @@
+Write a program in C to reverse the contents of the elements of an integer array.
