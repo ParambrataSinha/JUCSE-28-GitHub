@@ -102,7 +102,9 @@ I love coding, and coding loves me back. What more could I ask for?  💞
 <img align="right" src="https://github.com/ParambrataSinha/About_Me/blob/main/Assets/doge-dancing-doge.gif" alt="Rocket Launch" width="100" />
 
 Whether it’s AI, web dev, or creative tech experiments, I’m always up for a challenge. Let’s make the impossible possible together! 🌟  
+
 <br>
+
 ---
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/ParambrataSinha/About_Me/blob/main/Assets/AnimatedSticker-ezgif.com-censor.gif" />
