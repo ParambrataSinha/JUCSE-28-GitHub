@@ -1,7 +1,7 @@
 # Collage Assignments
 
 <img align="right" width=250 src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/taking-sunglasses-off-getting-a-better-look.gif>
-I made this repo to save my collage assignments.
+I made this repo to save my college assignments.
 <div align="vcentre">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Want+to+know+more+about+me!;Read+Below!!!" alt="Typing SVG">
 </div>
@@ -25,11 +25,11 @@ Welcome to my digital playground! 🚀 I’m a tech enthusiast on a mission to e
 
 <img align="right" alt="GIF" width=150 src="https://github.com/ParambrataSinha/About_Me/blob/main/Assets/minecraft-minecraft-memes.gif" />
 
-- 🎓 Student | B.Tech in Computer Science & Engineering at Jadavpur University (Batch '24-'28).  
+- 🎓 Student | B.E. in Computer Science & Engineering at Jadavpur University (Batch '24-'28).  
 - 🤖 Tech Adventurer | Obsessed with Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.  
 - 🌱 Learning in Progress | Currently mastering Scikit-learn, PyTorch, and building AI-powered solutions.  
 - 🤝 Team Player | Love collaborating on open-source projects and game-changing ideas.  
-- 🎮 Fun Side | Gaming, hacking puzzles, and bingeing sci-fi shows are my jam.  
+- 🎮 Fun Side | Gaming, hacking puzzles, and bingeing sci-fi shows and anime.
 
 ---
 
@@ -52,10 +52,11 @@ Welcome to my digital playground! 🚀 I’m a tech enthusiast on a mission to e
 ---
 
 ## 📊 GitHub Stats  
-
+My GitHub profile is still under construction, My stats might be a bit underwhelming right now, but I'm here to learn and grow. Here they are.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParambrataSinha&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParambrataSinha&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParambrataSinha&theme=highcontrast" alt="GitHub Streak Stats" height="165" />
 </div>  
 
 ---
@@ -89,8 +90,7 @@ Welcome to my digital playground! 🚀 I’m a tech enthusiast on a mission to e
 I love coding, and coding loves me back. What more could I ask for?  💞
 
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eszoii7z3wkywyjtx6tbqr3myq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=7b4eb1)](https://github.com/kittinan/spotify-github-profile) <img src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/ashley-violet.gif width=400>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eszoii7z3wkywyjtx6tbqr3myq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=7b4eb1)](https://github.com/kittinan/spotify-github-profile) <img src=https://github.com/ParambrataSinha/About_Me/blob/main/Assets/ashley-violet.gif width=200>
 
 
 
@@ -107,7 +107,21 @@ Whether it’s AI, web dev, or creative tech experiments, I’m always up for a 
 
 ---
 
+
+
+
+## ⭐️ Support My Work!
+
 <img align="right" alt="GIF" height="160px" src="https://github.com/ParambrataSinha/About_Me/blob/main/Assets/AnimatedSticker-ezgif.com-censor.gif" />
+
+If you like what you see, show some ❤️ by **starring my repositories!**
+Your support motivates me to keep creating awesome projects! 🚀✨
+
+<div align="center">
+  <a href="https://github.com/ParambrataSinha?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐️-Star%20My%20Repos-blue?style=for-the-badge" alt="Star Repositories" />
+  </a>
+</div>
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/ParambrataSinha/count.svg)
@@ -115,5 +129,4 @@ Whether it’s AI, web dev, or creative tech experiments, I’m always up for a 
 
 ⭐️ From [𝑷𝒂𝒓𝒂𝒎𝒃𝒓𝒂𝒕𝒂 𝑺𝒊𝒏𝒉𝒂 ](https://github.com/ParambrataSinha)
 
-
-### Show some ❤️ by starring some of the repositories!
+---
