@@ -1,0 +1,1 @@
+Write a program that converts a string like “123” to integer 123. Do not use any string library function.

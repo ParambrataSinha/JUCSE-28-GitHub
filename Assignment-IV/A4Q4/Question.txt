@@ -1,0 +1,1 @@
+Write a program to count the number of occurrences of any two vowels in succession in a line of text.

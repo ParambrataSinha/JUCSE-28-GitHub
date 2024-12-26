@@ -1,0 +1,1 @@
+Write a function squeeze(s,c) which removes all occurrences of the character c from the string s.

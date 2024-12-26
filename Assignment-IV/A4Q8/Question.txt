@@ -1,0 +1,2 @@
+Write a C program which accepts a string from user and checks whether it is palindrome or not. Do not use any string library function. 
+[Example of a palindrome string: "abcba", "abba"]

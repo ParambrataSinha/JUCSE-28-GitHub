@@ -1,0 +1,1 @@
+Write a C function convert(int n, char *s, int w) that accepts three arguments. The function stores the string representation of n in s. The third argument w is a minimum field width; the converted number must be padded with blanks on the left if necessary to make it wide enough. [OPTIONAL]
