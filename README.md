@@ -56,7 +56,6 @@ My GitHub profile is still under construction, My stats might be a bit underwhel
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParambrataSinha&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParambrataSinha&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParambrataSinha&theme=highcontrast" alt="GitHub Streak Stats" height="165" />
 </div>  
 
 ---
