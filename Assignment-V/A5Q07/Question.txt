@@ -1,0 +1,1 @@
+Write a program to sort some numbers in ascending order. The numbers are to be input from a file named ‘input.txt’. The output should be written in a file named ‘output.txt’. Use bubble sort algorithm and dynamic memory allocation for implementation.

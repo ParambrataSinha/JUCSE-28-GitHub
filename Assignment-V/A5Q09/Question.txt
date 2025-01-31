@@ -1,0 +1,1 @@
+In Binary Coded Decimal (BCD) encoding, each decimal digit is stored in a 4-bit nibble. Suppose, 8 bit unsigned characters are used to store positive two digit decimal numbers. For example, decimal 39 is stored as 00111001. Write a C function which accepts such a positive two digit decimal number as an 8 bit unsigned character and returns the decimal number as an integer.

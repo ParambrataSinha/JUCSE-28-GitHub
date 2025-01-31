@@ -1,0 +1,1 @@
+Write a program which read a C source file having comments (between /* and */) and copies it another file leaving the comments.

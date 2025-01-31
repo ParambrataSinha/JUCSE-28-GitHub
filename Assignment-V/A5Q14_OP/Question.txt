@@ -1,0 +1,1 @@
+Write a C program which reverses a given link list (pointer to head node is given). Assume suitable definition of link list nodes. [OPTIONAL]

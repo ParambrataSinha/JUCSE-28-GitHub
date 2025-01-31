@@ -1,0 +1,1 @@
+Write a program to build a linked list of integers. Write functions to add a new node at the beginning, at the end, or in the middle. Also write functions to delete a node and to traverse the list. [OPTIONAL]

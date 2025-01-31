@@ -1,0 +1,1 @@
+Write a C program which reads a C source file and determines percentage of characters which are part of comments.

@@ -1,0 +1,1 @@
+Write a program to copy one file to another where files names are passed as command line arguments.

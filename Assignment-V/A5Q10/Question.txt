@@ -1,0 +1,1 @@
+Write a program which accepts a floating point number (can be single or double precision) and prints the different parts of its storage representation (sign of number, mantissa, exponent, and sign of exponent) in binary.

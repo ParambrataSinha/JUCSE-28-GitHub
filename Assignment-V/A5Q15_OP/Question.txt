@@ -1,0 +1,6 @@
+Write a program to create a Telephone Directory application, which will have options for 
+a. Add Contact (Name and Telephone No.)
+b. Delete Contact
+c. Search (By Name)
+d. Browse
+Contact Information should be stored in a text file in a readable format. Allow multiple telephone numbers against a single contact name. [OPTIONAL]

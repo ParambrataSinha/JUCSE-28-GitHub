@@ -1,0 +1,1 @@
+An 8 bit unsigned character is used to store the gender (bit no. 7), year of study (bit nos. 6 and 5) and age of a student (bit nos. 4 to 0), where bit no. 7 is the MSB. Write a C function which accepts an 8 bit unsigned character value and prints the gender, year of study and age of a student.

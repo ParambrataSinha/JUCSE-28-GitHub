@@ -1,0 +1,1 @@
+Write a program to implement a stack using linked list. Write functions to push and pop elements. [OPTIONAL]
